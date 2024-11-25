@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "cypress": "^13.15.2"
+  },
+  "name": "pruebas-de-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
